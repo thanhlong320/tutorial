@@ -1,0 +1,80 @@
+[33mcommit a2233bd9370adb6137a12a9e8f7b0d0af0f14a9f[m[33m ([m[1;36mHEAD -> [m[1;32manhkiet[m[33m)[m
+Author: TaAnhKiet <18130119@st.hcmuaf.edu.vn>
+Date:   Mon Mar 8 11:12:39 2021 +0700
+
+    add text
+
+[33mcommit 7922442f04eec54713a7dd628f37d51236a83a06[m
+Merge: 046c0ce d928ae3
+Author: minhdat1602 <64655168+minhdat1602@users.noreply.github.com>
+Date:   Mon Mar 8 11:08:32 2021 +0700
+
+    Merge pull request #3 from thanhlong320/thanhlong
+    
+    long_branch
+
+[33mcommit 046c0ce658feda0ce0be4ab2156adb1945f502c5[m
+Merge: 91a07d9 1a027e2
+Author: takiet60 <73637758+takiet60@users.noreply.github.com>
+Date:   Mon Mar 8 11:03:57 2021 +0700
+
+    Merge pull request #2 from minhdat1602/anhkiet
+    
+    add new file
+
+[33mcommit 1a027e2ae4232a4d88707828e8ad04340ee743d0[m
+Author: TaAnhKiet <18130119@st.hcmuaf.edu.vn>
+Date:   Mon Mar 8 11:03:52 2021 +0700
+
+    add new file
+
+[33mcommit d928ae394bef3fa3d89ccfd0284bc2833b8d1964[m
+Author: thanhlong320 <nguyenthanhlong03022000@gmail.com>
+Date:   Mon Mar 8 11:03:36 2021 +0700
+
+    long_branch
+
+[33mcommit 91a07d9f3669fefd3d840f427a3e2ec85bdd79a9[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: dc53255 8132817
+Author: minhdat1602 <64655168+minhdat1602@users.noreply.github.com>
+Date:   Mon Mar 8 10:59:03 2021 +0700
+
+    Merge pull request #1 from minhdat1602/dat
+    
+    hahaha
+
+[33mcommit 8132817ab36f5a87c4819c956df4af0260c0bb4d[m[33m ([m[1;31morigin/dat[m[33m)[m
+Author: Phung Minh Dat <18130035@st.hcmuaf.edu.vn>
+Date:   Mon Mar 8 10:57:56 2021 +0700
+
+    aaaa
+
+[33mcommit a55040b9471ae4d291c058ca200a3a0fb8b7a479[m
+Author: Phung Minh Dat <18130035@st.hcmuaf.edu.vn>
+Date:   Mon Mar 8 10:56:13 2021 +0700
+
+    hahaha
+
+[33mcommit dc5325576c9a47b7faf97e29a7c59e8b8c603cc0[m[33m ([m[1;32mmain[m[33m)[m
+Author: TaAnhKiet <18130119@st.hcmuaf.edu.vn>
+Date:   Mon Mar 8 10:55:27 2021 +0700
+
+    add file kiet.html
+
+[33mcommit 2a0c8f680dc7125249bd3e099bbd3144ec03aeb5[m
+Author: TaAnhKiet <18130119@st.hcmuaf.edu.vn>
+Date:   Mon Mar 8 10:48:00 2021 +0700
+
+    add file anhkiet.html
+
+[33mcommit 8d12a284875eacdc81a44852f3489ad852a0aafe[m
+Author: Phung Minh Dat <18130035@st.hcmuaf.edu.vn>
+Date:   Mon Mar 8 10:37:35 2021 +0700
+
+    first commit
+
+[33mcommit db21e6ccfabc7265e56f93872cae41d846e0b60b[m
+Author: minhdat1602 <64655168+minhdat1602@users.noreply.github.com>
+Date:   Mon Mar 8 10:33:58 2021 +0700
+
+    Initial commit
